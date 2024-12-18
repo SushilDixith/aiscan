@@ -1,0 +1,7 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "ai_engine": "text-davinci-003",
+    "ai_max_tokens": 150,
+    "output_format": "table",
+    "logging_level": "ERROR"
+}
